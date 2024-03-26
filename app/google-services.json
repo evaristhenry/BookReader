@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410005404057",
+    "project_id": "book-reader-ace88",
+    "storage_bucket": "book-reader-ace88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410005404057:android:2ae4574e1ea7ae838f7b08",
+        "android_client_info": {
+          "package_name": "com.project.bookreader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLTZa2MhwVT1xBLjWYja2MWGc6cUkul20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

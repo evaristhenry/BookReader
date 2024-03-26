@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="book_app">Book App</string>
+    <string name="logo_image">logo_image</string>
+    <string name="welcome_to_book_app">Welcome to Book App</string>
+    <string name="continue_without_login">Continue without login</string>
+    <string name="login">Login</string>
+    <string name="please_login">Please Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="don_t_have_an_account_signup">New User? <b>SignUp</b></string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="dashboard_admin">Dashboard Admin</string>
+    <string name="abc_example_com">abc@example.com</string>
+    <string name="todo">TODO</string>
+    <string name="dashboard_user">Dashboard User</string>
+    <string name="add_category">Add Category</string>
+    <string name="pdf_icon">pdf_icon</string>
+    <string name="back_button">back_button</string>
+    <string name="add_a_new_category">Add a New category</string>
+    <string name="category_title">Category Title</string>
+    <string name="submit">Submit</string>
+    <string name="search">Search</string>
+</resources>
